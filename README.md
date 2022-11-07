@@ -1,4 +1,4 @@
-# Book store web-scraper
+# Bookstore web-scraper
 This Python script scrapes products data from [a fictional bookstore](http://books.toscrape.com/).
 
 ## Python libraries used:
